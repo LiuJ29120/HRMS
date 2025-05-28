@@ -1,0 +1,12 @@
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\bin\Release\net8.0\HospitalRegistrationManagement.Model.deps.json
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\bin\Release\net8.0\HospitalRegistrationManagement.Model.dll
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\bin\Release\net8.0\HospitalRegistrationManagement.Model.pdb
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\obj\Release\net8.0\HospitalRegistrationManagement.Model.csproj.AssemblyReference.cache
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\obj\Release\net8.0\HospitalRegistrationManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\obj\Release\net8.0\HospitalRegistrationManagement.Model.AssemblyInfoInputs.cache
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\obj\Release\net8.0\HospitalRegistrationManagement.Model.AssemblyInfo.cs
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\obj\Release\net8.0\HospitalRegistrationManagement.Model.csproj.CoreCompileInputs.cache
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\obj\Release\net8.0\HospitalRegistrationManagement.Model.dll
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\obj\Release\net8.0\refint\HospitalRegistrationManagement.Model.dll
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\obj\Release\net8.0\HospitalRegistrationManagement.Model.pdb
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Model\obj\Release\net8.0\ref\HospitalRegistrationManagement.Model.dll

@@ -1,0 +1,15 @@
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\bin\Release\net8.0\HospitalRegistrationManagement.Common.deps.json
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\bin\Release\net8.0\HospitalRegistrationManagement.Common.dll
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\bin\Release\net8.0\HospitalRegistrationManagement.Common.pdb
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\bin\Release\net8.0\HospitalRegistrationManagement.Model.dll
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\bin\Release\net8.0\HospitalRegistrationManagement.Model.pdb
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\HospitalRegistrationManagement.Common.csproj.AssemblyReference.cache
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\HospitalRegistrationManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\HospitalRegistrationManagement.Common.AssemblyInfoInputs.cache
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\HospitalRegistrationManagement.Common.AssemblyInfo.cs
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\HospitalRegistrationManagement.Common.csproj.CoreCompileInputs.cache
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\Hospital.F3D6E0B8.Up2Date
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\HospitalRegistrationManagement.Common.dll
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\refint\HospitalRegistrationManagement.Common.dll
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\HospitalRegistrationManagement.Common.pdb
+D:\Project\graduation\HospitalRegistrationManagement\HospitalRegistrationManagement.Common\obj\Release\net8.0\ref\HospitalRegistrationManagement.Common.dll

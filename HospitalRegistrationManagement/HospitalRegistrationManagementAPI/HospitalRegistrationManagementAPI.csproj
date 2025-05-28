@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="8.2.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="10.0.0" />
+    <PackageReference Include="EPPlus" Version="7.6.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HospitalRegistrationManagement.Common\HospitalRegistrationManagement.Common.csproj" />
+    <ProjectReference Include="..\HospitalRegistrationManagement.Model\HospitalRegistrationManagement.Model.csproj" />
+    <ProjectReference Include="..\HospitalRegistrationManagement.Service\HospitalRegistrationManagement.Service.csproj" />
+  </ItemGroup>
+
+</Project>

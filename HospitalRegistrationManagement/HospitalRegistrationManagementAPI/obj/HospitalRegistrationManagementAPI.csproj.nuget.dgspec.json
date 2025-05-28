@@ -1,0 +1,340 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj",
+        "projectName": "HospitalRegistrationManagement.Common",
+        "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj",
+        "packagesPath": "C:\\Users\\LiuJ\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LiuJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj": {
+                "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.6.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.176-preview09, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj",
+        "projectName": "HospitalRegistrationManagement.Model",
+        "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj",
+        "packagesPath": "C:\\Users\\LiuJ\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LiuJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.6.0, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.176-preview09, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj",
+        "projectName": "HospitalRegistrationManagement.Service",
+        "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj",
+        "packagesPath": "C:\\Users\\LiuJ\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LiuJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj": {
+                "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj"
+              },
+              "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj": {
+                "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj",
+        "projectName": "HospitalRegistrationManagementAPI",
+        "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj",
+        "packagesPath": "C:\\Users\\LiuJ\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LiuJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj": {
+                "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj"
+              },
+              "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj": {
+                "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj"
+              },
+              "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj": {
+                "projectPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.6.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

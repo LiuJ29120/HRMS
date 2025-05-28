@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0320: 使匿名函数成为静态函数
+dotnet_diagnostic.IDE0320.severity = suggestion
+
+# IDE0320: 使匿名函数成为静态函数
+csharp_prefer_static_anonymous_function = false

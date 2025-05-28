@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3KfHfKqKKywoN2X2x5fPacxlKrw7BG90Vtb2+7G8ep8=",
+  "Source": "HospitalRegistrationManagementAPI",
+  "BasePath": "_content/HospitalRegistrationManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

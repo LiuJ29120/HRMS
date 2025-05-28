@@ -1,0 +1,1021 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\graduation\\HospitalRegistrationManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\medicalrecord\\imedicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\medicalrecord\\imedicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\medicalrecord\\dto\\medicalrecordres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\medicalrecord\\dto\\medicalrecordres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\department\\dto\\departmentreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\department\\dto\\departmentreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\config\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\config\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.model\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|solutionrelative:hospitalregistrationmanagement.model\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB09BEEE-CB7F-4F99-A7A8-A35533EB6A20}|HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.common\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB09BEEE-CB7F-4F99-A7A8-A35533EB6A20}|HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj|solutionrelative:hospitalregistrationmanagement.common\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB09BEEE-CB7F-4F99-A7A8-A35533EB6A20}|HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.common\\autofacmoduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB09BEEE-CB7F-4F99-A7A8-A35533EB6A20}|HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj|solutionrelative:hospitalregistrationmanagement.common\\autofacmoduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB09BEEE-CB7F-4F99-A7A8-A35533EB6A20}|HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.common\\memoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB09BEEE-CB7F-4F99-A7A8-A35533EB6A20}|HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj|solutionrelative:hospitalregistrationmanagement.common\\memoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\registrationsourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\registrationsourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\toolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\toolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\registration\\registraionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\registration\\registraionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\tool\\dto\\doctorreportres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\tool\\dto\\doctorreportres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\schedule\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\schedule\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\tool\\toolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\tool\\toolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\tool\\itoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\tool\\itoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB09BEEE-CB7F-4F99-A7A8-A35533EB6A20}|HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.common\\hospitalregistrationmanagement.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB09BEEE-CB7F-4F99-A7A8-A35533EB6A20}|HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj|solutionrelative:hospitalregistrationmanagement.common\\hospitalregistrationmanagement.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42743A66-AFC6-4E95-BD87-955F3A4CD1B9}|Solution Items{42743A66-AFC6-4E95-BD87-955F3A4CD1B9}|D:\\Project\\graduation\\HospitalRegistrationManagement\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{42743A66-AFC6-4E95-BD87-955F3A4CD1B9}|Solution Items{42743A66-AFC6-4E95-BD87-955F3A4CD1B9}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.model\\entitys\\registrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|solutionrelative:hospitalregistrationmanagement.model\\entitys\\registrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\doctor\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\doctor\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.model\\entitys\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|solutionrelative:hospitalregistrationmanagement.model\\entitys\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.model\\entitys\\registrationsources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|solutionrelative:hospitalregistrationmanagement.model\\entitys\\registrationsources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.model\\entitys\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC6A99-8FD8-436E-A5CD-F61705ACE2C9}|HospitalRegistrationManagement.Model\\HospitalRegistrationManagement.Model.csproj|solutionrelative:hospitalregistrationmanagement.model\\entitys\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\schedule\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\schedule\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\hospitalregistrationmanagement.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\hospitalregistrationmanagement.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\rating\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\rating\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\registration\\dto\\registrationres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\registration\\dto\\registrationres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\registration\\dto\\registrationreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\registration\\dto\\registrationreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\rating\\dto\\ratingres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\rating\\dto\\ratingres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\92b5227b9b28e3cc338e30638672414af3e12b7106bc8aec8c801c7d01c0aecf\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\rating\\dto\\ratingreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\rating\\dto\\ratingreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\rating\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\rating\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\medicalrecord\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\medicalrecord\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\registration\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\registration\\iregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\registrationsource\\registrationsourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\registrationsource\\registrationsourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\patient\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\patient\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\patient\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\patient\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\patient\\dto\\patientres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\patient\\dto\\patientres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\274f96d6f0be3383d08bfb40893c66792a85e25548528754128733f0305383a0\\LocalhostListenOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\76f8d2be592251c4999f2a74fb184d8831179e3d0703752ea939fca3796e3eee\\BrowserLinkMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\1eade679ef9a41dcb0e2ff0a1c7f3f25b0e5018a154b1b4697fb9b763d7491e2\\AsyncTaskMethodBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\8d61066a3c5a5ec9e3be086d348df14e1473c3c6440aaf0ae1aabdc177a4bfe9\\KestrelConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\a6087dba4baf2a68a6879d8cce10a4da81aa7e83119f4c3485f817322c164aaf\\StaticFileMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\869997a5f13628b862f6a8d1b68c9b06dac996ad3274df3d90003b305d4f66c4\\String.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\c942d64b3df2aab4866faf8d73a5fd7d4b5277e7c10ad084d4cd52f87124c6a8\\Type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\fec9a195c00bad1a47da5d16d4465d90d2f4b50007d023b4fad330902733a77f\\PortableThreadPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\schedule\\dto\\schedulereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\schedule\\dto\\schedulereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\registrationsource\\dto\\registrationsourceres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\registrationsource\\dto\\registrationsourceres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagement.service\\registrationsource\\dto\\registrationsourcereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3121C2-50AC-4057-85AD-E33B4EE78F65}|HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj|solutionrelative:hospitalregistrationmanagement.service\\registrationsource\\dto\\registrationsourcereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|d:\\project\\graduation\\hospitalregistrationmanagement\\hospitalregistrationmanagementapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A85AE1-9865-4325-866B-B14450EEC954}|HospitalRegistrationManagementAPI\\HospitalRegistrationManagementAPI.csproj|solutionrelative:hospitalregistrationmanagementapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\ApiResult.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Model\\ApiResult.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\ApiResult.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Model\\ApiResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:18:56.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemoryHelper.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\MemoryHelper.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Common\\MemoryHelper.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\MemoryHelper.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Common\\MemoryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:18:50.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\DbContext.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Common\\DbContext.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\DbContext.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Common\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:01:24.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperConfigs.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Config\\AutoMapperConfigs.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Config\\AutoMapperConfigs.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Config\\AutoMapperConfigs.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Config\\AutoMapperConfigs.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:12:37.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentReq.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Department\\Dto\\DepartmentReq.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Department\\Dto\\DepartmentReq.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Department\\Dto\\DepartmentReq.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Department\\Dto\\DepartmentReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:32:34.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMedicalRecordService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\MedicalRecord\\IMedicalRecordService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\MedicalRecord\\IMedicalRecordService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\MedicalRecord\\IMedicalRecordService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\MedicalRecord\\IMedicalRecordService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:19:32.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\RatingController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\RatingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:54:26.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicalRecordRes.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\MedicalRecord\\Dto\\MedicalRecordRes.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\MedicalRecord\\Dto\\MedicalRecordRes.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\MedicalRecord\\Dto\\MedicalRecordRes.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\MedicalRecord\\Dto\\MedicalRecordRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:18:59.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationSourceController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\RegistrationSourceController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\RegistrationSourceController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\RegistrationSourceController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\RegistrationSourceController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAIAwwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:25:08.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\RegistrationController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:22:14.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\ScheduleController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAowH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:59:04.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutofacModuleRegister.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\AutofacModuleRegister.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Common\\AutofacModuleRegister.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\AutofacModuleRegister.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Common\\AutofacModuleRegister.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:23:43.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:48:15.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:58:16.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:43:09.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MedicalRecordController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\MedicalRecordController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\MedicalRecordController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\MedicalRecordController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\MedicalRecordController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:58:28.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:53:01.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ToolsController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\ToolsController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\ToolsController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\ToolsController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\ToolsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T05:35:24.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\UploadController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:46:42.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistraionService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Registration\\RegistraionService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Registration\\RegistraionService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Registration\\RegistraionService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Registration\\RegistraionService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:15:07.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Program.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Program.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:52:41.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Schedule\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Schedule\\ScheduleService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Schedule\\ScheduleService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Schedule\\ScheduleService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:15:35.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DoctorReportRes.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Tool\\Dto\\DoctorReportRes.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Tool\\Dto\\DoctorReportRes.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Tool\\Dto\\DoctorReportRes.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Tool\\Dto\\DoctorReportRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:54:31.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IToolService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Tool\\IToolService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Tool\\IToolService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Tool\\IToolService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Tool\\IToolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:07:39.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ToolService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Tool\\ToolService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Tool\\ToolService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Tool\\ToolService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Tool\\ToolService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:07:54.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:54:26.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegistrationSources.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\Entitys\\RegistrationSources.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Model\\Entitys\\RegistrationSources.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\Entitys\\RegistrationSources.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Model\\Entitys\\RegistrationSources.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T07:15:22.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Department\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Department\\DepartmentService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Department\\DepartmentService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Department\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:42:13.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Doctor\\DoctorService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Doctor\\DoctorService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Doctor\\DoctorService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Doctor\\DoctorService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:45:11.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-08T06:58:47.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HospitalRegistrationManagement.Common.csproj",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj",
+              "RelativeToolTip": "HospitalRegistrationManagement.Common\\HospitalRegistrationManagement.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T06:58:52.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Ratings.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\Entitys\\Ratings.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Model\\Entitys\\Ratings.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\Entitys\\Ratings.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Model\\Entitys\\Ratings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:24:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\Entitys\\Doctors.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Model\\Entitys\\Doctors.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\Entitys\\Doctors.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Model\\Entitys\\Doctors.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:05:44.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Registrations.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\Entitys\\Registrations.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Model\\Entitys\\Registrations.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Model\\Entitys\\Registrations.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Model\\Entitys\\Registrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:18:46.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\appsettings.json",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\appsettings.json",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T06:52:06.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\User\\UserService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\User\\UserService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\User\\UserService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:53:34.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Schedule\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Schedule\\IScheduleService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Schedule\\IScheduleService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Schedule\\IScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:12:41.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\User\\IUserService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\User\\IUserService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:54:09.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HospitalRegistrationManagement.Service.csproj",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\HospitalRegistrationManagement.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T07:52:35.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegistrationRes.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Registration\\Dto\\RegistrationRes.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Registration\\Dto\\RegistrationRes.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Registration\\Dto\\RegistrationRes.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Registration\\Dto\\RegistrationRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABIwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:40:19.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RegistrationReq.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Registration\\Dto\\RegistrationReq.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Registration\\Dto\\RegistrationReq.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Registration\\Dto\\RegistrationReq.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Registration\\Dto\\RegistrationReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:46:29.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Rating\\RatingService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Rating\\RatingService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Rating\\RatingService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Rating\\RatingService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwCoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:58:18.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RatingRes.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Rating\\Dto\\RatingRes.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Rating\\Dto\\RatingRes.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Rating\\Dto\\RatingRes.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Rating\\Dto\\RatingRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABIwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:29:22.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRatingService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Rating\\IRatingService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Rating\\IRatingService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Rating\\IRatingService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Rating\\IRatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:02:18.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\92b5227b9b28e3cc338e30638672414af3e12b7106bc8aec8c801c7d01c0aecf\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\92b5227b9b28e3cc338e30638672414af3e12b7106bc8aec8c801c7d01c0aecf\\ActionMethodExecutor.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwGIAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:20:24.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RatingReq.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Rating\\Dto\\RatingReq.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Rating\\Dto\\RatingReq.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Rating\\Dto\\RatingReq.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Rating\\Dto\\RatingReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:29:13.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MedicalRecordService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\MedicalRecord\\MedicalRecordService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\MedicalRecord\\MedicalRecordService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\MedicalRecord\\MedicalRecordService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\MedicalRecord\\MedicalRecordService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAowC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:19:41.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IRegistrationService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Registration\\IRegistrationService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Registration\\IRegistrationService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Registration\\IRegistrationService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Registration\\IRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:13:42.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Patient\\PatientService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Patient\\PatientService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Patient\\PatientService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Patient\\PatientService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:23:57.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RegistrationSourceService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\RegistrationSource\\RegistrationSourceService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\RegistrationSource\\RegistrationSourceService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\RegistrationSource\\RegistrationSourceService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\RegistrationSource\\RegistrationSourceService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwFsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:08:53.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Patient\\IPatientService.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Patient\\IPatientService.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Patient\\IPatientService.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Patient\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:25:50.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PatientRes.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Patient\\Dto\\PatientRes.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Patient\\Dto\\PatientRes.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Patient\\Dto\\PatientRes.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Patient\\Dto\\PatientRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:12:06.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LocalhostListenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\274f96d6f0be3383d08bfb40893c66792a85e25548528754128733f0305383a0\\LocalhostListenOptions.cs",
+              "ToolTip": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\274f96d6f0be3383d08bfb40893c66792a85e25548528754128733f0305383a0\\LocalhostListenOptions.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:40:56.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StaticFileMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\a6087dba4baf2a68a6879d8cce10a4da81aa7e83119f4c3485f817322c164aaf\\StaticFileMiddleware.cs",
+              "ToolTip": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\a6087dba4baf2a68a6879d8cce10a4da81aa7e83119f4c3485f817322c164aaf\\StaticFileMiddleware.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwEMAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:06:33.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "KestrelConnection.cs",
+              "DocumentMoniker": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\8d61066a3c5a5ec9e3be086d348df14e1473c3c6440aaf0ae1aabdc177a4bfe9\\KestrelConnection.cs",
+              "ToolTip": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\8d61066a3c5a5ec9e3be086d348df14e1473c3c6440aaf0ae1aabdc177a4bfe9\\KestrelConnection.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAmwO4AAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:06:38.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AsyncTaskMethodBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\1eade679ef9a41dcb0e2ff0a1c7f3f25b0e5018a154b1b4697fb9b763d7491e2\\AsyncTaskMethodBuilder.cs",
+              "ToolTip": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\1eade679ef9a41dcb0e2ff0a1c7f3f25b0e5018a154b1b4697fb9b763d7491e2\\AsyncTaskMethodBuilder.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwIIAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:06:50.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BrowserLinkMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\76f8d2be592251c4999f2a74fb184d8831179e3d0703752ea939fca3796e3eee\\BrowserLinkMiddleware.cs",
+              "ToolTip": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\76f8d2be592251c4999f2a74fb184d8831179e3d0703752ea939fca3796e3eee\\BrowserLinkMiddleware.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwHkAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:06:52.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\c942d64b3df2aab4866faf8d73a5fd7d4b5277e7c10ad084d4cd52f87124c6a8\\Type.cs",
+              "ToolTip": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\c942d64b3df2aab4866faf8d73a5fd7d4b5277e7c10ad084d4cd52f87124c6a8\\Type.cs",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAmwNQBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:17:48.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "String.cs",
+              "DocumentMoniker": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\869997a5f13628b862f6a8d1b68c9b06dac996ad3274df3d90003b305d4f66c4\\String.cs",
+              "ToolTip": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\869997a5f13628b862f6a8d1b68c9b06dac996ad3274df3d90003b305d4f66c4\\String.cs",
+              "ViewState": "AgIAACcGAAAAAAAAAAAmwD4GAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:23:01.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PortableThreadPool.cs",
+              "DocumentMoniker": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\fec9a195c00bad1a47da5d16d4465d90d2f4b50007d023b4fad330902733a77f\\PortableThreadPool.cs",
+              "ToolTip": "C:\\Users\\LiuJ\\AppData\\Local\\Temp\\.vsdbgsrc\\fec9a195c00bad1a47da5d16d4465d90d2f4b50007d023b4fad330902733a77f\\PortableThreadPool.cs",
+              "ViewState": "AgIAACIFAAAAAAAAAAAmwC8FAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:28:34.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ScheduleReq.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Schedule\\Dto\\ScheduleReq.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\Schedule\\Dto\\ScheduleReq.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\Schedule\\Dto\\ScheduleReq.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\Schedule\\Dto\\ScheduleReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:48:29.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RegistrationSourceRes.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\RegistrationSource\\Dto\\RegistrationSourceRes.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\RegistrationSource\\Dto\\RegistrationSourceRes.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\RegistrationSource\\Dto\\RegistrationSourceRes.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\RegistrationSource\\Dto\\RegistrationSourceRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:45:18.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RegistrationSourceReq.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\RegistrationSource\\Dto\\RegistrationSourceReq.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagement.Service\\RegistrationSource\\Dto\\RegistrationSourceReq.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagement.Service\\RegistrationSource\\Dto\\RegistrationSourceReq.cs",
+              "RelativeToolTip": "HospitalRegistrationManagement.Service\\RegistrationSource\\Dto\\RegistrationSourceReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABIwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:43:43.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HospitalRegistrationManagementAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\Project\\graduation\\HospitalRegistrationManagement\\HospitalRegistrationManagementAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "HospitalRegistrationManagementAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:53:50.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
